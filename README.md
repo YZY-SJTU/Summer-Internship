@@ -1,2 +1,2 @@
 # Summer-Internship
-SJTU‘s junior summer intership project
+SJTU's junior summer intership project
